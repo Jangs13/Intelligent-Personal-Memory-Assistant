@@ -3,7 +3,7 @@ Intelligent Personal Memory Assistant (IPMA)  helps its users to remember things
 
 # Aim
 This work is oriented to help users in scheduling events, suggest activities and recall memories, with minimal interaction.
-To achieve this, we have developed a platform based on an Intelligent Personal Memory Assistant (IPMA), uses sounds, images and text recorded on simple mobile devices to aid users in recalling important information in their lives, including names, conversations, faces, appointments and other key information. The IPMA is a system that enables users to save their memories as well as to retrieve all saved memories and also these memories can be managed easily. It also allows to set time-based reminders and to manage those reminders. All these tasks are managed through speech or text. The system will help users to remind their important information quickly.
+To achieve this, I have developed a platform based on an Intelligent Personal Memory Assistant (IPMA), uses sounds, images and text recorded on simple mobile devices to aid users in recalling important information in their lives, including names, conversations, faces, appointments and other key information. The IPMA is a system that enables users to save their memories as well as to retrieve all saved memories and also these memories can be managed easily. It also allows to set time-based reminders and to manage those reminders. All these tasks are managed through speech or text. The system will help users to remind their important information quickly.
 
 
 # Work Screenshot
