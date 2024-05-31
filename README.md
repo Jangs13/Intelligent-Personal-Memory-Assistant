@@ -42,11 +42,15 @@ IPMA is designed to assist users in scheduling events, suggesting activities, an
 ## Work Screenshot
 ![image](https://user-images.githubusercontent.com/83828452/140893780-d4017b7b-f6b1-4e8b-a109-354d2b18521b.png)
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-For any questions or feedback, please contact Atharv Pramod Jangam.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please contact [Atharv Pramod Jangam](mailto:atharvjangam30@gmail.com).
+
 
 
 
