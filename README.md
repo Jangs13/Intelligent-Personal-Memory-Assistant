@@ -1,9 +1,9 @@
 # Intelligent Personal Memory Assistant (IPMA)
+![banner](https://github.com/Jangs13/Intelligent-Personal-Memory-Assistant/blob/master/AdobeStock_433697094.jpeg)
 
 ## Overview
 The Intelligent Personal Memory Assistant (IPMA) helps users remember important information proactively. Using voice queries and a natural language user interface, IPMA can recall details about events, belongings, and schedule reminders.
 
-![banner](https://github.com/Jangs13/Intelligent-Personal-Memory-Assistant/blob/master/AdobeStock_433697094.jpeg)
 
 ## Features
 - Voice Queries: Interact using natural language to save and retrieve information.
