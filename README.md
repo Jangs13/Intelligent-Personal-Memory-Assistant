@@ -1,10 +1,57 @@
-# Intelligent-Personal-Memory-Assistant
-Intelligent Personal Memory Assistant (IPMA)  helps its users to remember things and occurrences in a proactive manner. It uses voice queries and a natural language user interface to remember important information, place of user’s belongings and schedule reminders.
+# Intelligent Personal Memory Assistant (IPMA)
+
+## Overview
+The Intelligent Personal Memory Assistant (IPMA) helps users remember important information proactively. Using voice queries and a natural language user interface, IPMA can recall details about events, belongings, and schedule reminders.
+
 ![banner](https://github.com/Jangs13/Intelligent-Personal-Memory-Assistant/blob/master/AdobeStock_433697094.jpeg)
-# Aim
-This work is oriented to help users in scheduling events, suggest activities and recall memories, with minimal interaction.
-To achieve this, I have developed a platform based on an Intelligent Personal Memory Assistant (IPMA), uses sounds, images and text recorded on simple mobile devices to aid users in recalling important information in their lives, including names, conversations, faces, appointments and other key information. The IPMA is a system that enables users to save their memories as well as to retrieve all saved memories and also these memories can be managed easily. It also allows to set time-based reminders and to manage those reminders. All these tasks are managed through speech or text. The system will help users to remind their important information quickly.
+
+## Features
+- Voice Queries: Interact using natural language to save and retrieve information.
+- Reminders: Set and manage time-based reminders.
+- Memory Storage: Save and recall memories, including names, conversations, and appointments.
+- User-Friendly Interface: Minimal interaction required for ease of use.
+
+## Aim
+IPMA is designed to assist users in scheduling events, suggesting activities, and recalling memories using simple mobile devices. It enables quick access to important information, ensuring users never forget essential details.
+
+## Technology Stack
+- Python: Main programming language.
+- Flask: Web framework for the application.
+- Machine Learning: For natural language processing and understanding.
 
 
-# Work Screenshot
+## Setup
+
+### Clone the repository:
+
+- git clone https://github.com/Jangs13/Intelligent-Personal-Memory-Assistant.git
+
+### Navigate to the project directory:
+
+
+- cd Intelligent-Personal-Memory-Assistant
+
+### Install dependencies:
+
+- pip install -r requirements.txt
+
+### Run the application:
+
+- python flask_app.py
+  
+## Work Screenshot
 ![image](https://user-images.githubusercontent.com/83828452/140893780-d4017b7b-f6b1-4e8b-a109-354d2b18521b.png)
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+For any questions or feedback, please contact Atharv Pramod Jangam.
+
+
+
+
+
+
+
+
